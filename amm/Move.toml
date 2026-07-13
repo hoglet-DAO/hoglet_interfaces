@@ -12,7 +12,7 @@ spike_staking = "0x3045d27b5fada1e30897a741fb184e48ef0bff3717aea23918ebc1e5c7153
 
 [dependencies.SupraFramework]
 git = "https://github.com/Entropy-Foundation/aptos-core.git"
-rev = "dev"
+rev = "b710f2df13c46ba8ec7c9aec2a5ed78bcfd4b3ce"
 subdir = "aptos-move/framework/supra-framework"
 
 [dev-dependencies]
